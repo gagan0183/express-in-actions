@@ -1,0 +1,9 @@
+{
+  "name": "myproject",
+  "author": "Gagan",
+  "private": true,
+  "version": "1.0.0",
+  "dependencies": {
+    "mustache": "^2.3.0"
+  }
+}
