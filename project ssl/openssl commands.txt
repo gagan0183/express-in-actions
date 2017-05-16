@@ -1,0 +1,1 @@
+openssl req -newkey rsa:2048 -new -nodes -x509 -days 3650 -keyout e:\key.pem -out e:\cert.pem -config C:\OpenSSL-Win64\bin\cnf\openssl.cnf
