@@ -7,3 +7,4 @@ guest/npm*
 project olivia/node_modules/*
 project ssl/node_modules/*
 temperature-by-zip/node_modules/*
+project static/node_modules/*
